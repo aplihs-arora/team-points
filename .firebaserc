@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "team-points-93c9d": {
+      "hosting": {
+        "team-points": [
+          "team-points-93c9d"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "team-points-93c9d"
+  }
+}

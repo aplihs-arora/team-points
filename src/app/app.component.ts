@@ -9,7 +9,7 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.component.scss'
 })
 export class AppComponent implements OnInit {
-  title = 'will-you';
+  title = 'team-points';
   displayCounterValue = "0"
 
   incrementCounter() {
